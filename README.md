@@ -1,0 +1,1 @@
+This project implements a FastAPI interface for predicting the species of Iris flowers using a pre-trained machine learning model. Users can input the sepal length, sepal width, petal length, and petal width of an Iris flower through the FastAPI interface, and the server will respond with the predicted species.
